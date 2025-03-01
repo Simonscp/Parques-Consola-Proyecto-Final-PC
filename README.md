@@ -27,7 +27,6 @@ No es necesario instalar estas librerías por separado, ya que vienen incluidas 
    cd Parques-Consola-Proyecto-Final-PC
    ```
 3. Abre el archivo del juego en Jupyter Notebook o Google Colab:
-   ```
 - Para Jupyter Notebook, usa:
   jupyter notebook Codigo_Final_Grupo5.ipynb
    ```bash
