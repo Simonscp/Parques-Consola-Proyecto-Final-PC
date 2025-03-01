@@ -5,10 +5,17 @@ El objetivo es evaluar conocimientos adquiridos en programación mediante la imp
 
 ## 🚀 Requisitos
 - Python 3.8 o superior  
-- Librerías necesarias (si aplica, instalar con el siguiente comando):
-  ```bash
-  pip install -r requirements.txt
-  ```
+Para ejecutar este proyecto, asegúrate de tener instalado **Python 3.8 o superior** y las siguientes librerías estándar de Python:
+
+- `random`: Para la simulación del lanzamiento de dados y la generación de resultados aleatorios.
+- `time`: Para introducir pausas y efectos temporales que enriquecen la interacción del usuario.
+- `typing`: Para definir tipos de datos como `List`, `Tuple` y `Dict`, reforzando la claridad del código.
+- `dataclasses`: Para la definición y manejo de la clase `Ficha`, facilitando un código más limpio y mantenible.
+- `os`: Para limpiar la consola y asegurar que la visualización del tablero sea siempre actual y ordenada.
+
+No es necesario instalar estas librerías por separado, ya que vienen incluidas con Python.
+
+---
 
 ## 📌 Cómo ejecutar
 1. Clona este repositorio con:
