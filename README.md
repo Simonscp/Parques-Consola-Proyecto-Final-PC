@@ -32,7 +32,11 @@ No es necesario instalar estas librerías por separado, ya que vienen incluidas 
    ```bash
      jupyter notebook Codigo_Final_Grupo5.ipynb
    ```
-- Para Google Colab, sube el archivo Codigo_Final_Grupo5.ipynb a tu cuenta de Google Drive y ábrelo desde Colab.
+- Para Google Colab,
+  Sube el archivo Codigo_Final_Grupo5.ipynb a tu cuenta de Google Drive.
+  Abre Google Colab y ve a Archivo > Abrir notebook.
+  En la pestaña Google Drive, selecciona el archivo.
+  Ejecuta las celdas del notebook para iniciar el juego.
    
 
 ## 📄 Licencia
