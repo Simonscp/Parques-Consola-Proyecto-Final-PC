@@ -20,18 +20,24 @@ No es necesario instalar estas librerías por separado, ya que vienen incluidas 
 ## 📌 Cómo ejecutar
 1. Clona este repositorio con:
    ```bash
-   git clone https://github.com/TU_USUARIO/parques-jugable.git
+   git clone https://github.com/Simonscp/Parques-Consola-Proyecto-Final-PC.git
    ```
 2. Entra al directorio del proyecto:
    ```bash
-   cd parques-jugable
+   cd Parques-Consola-Proyecto-Final-PC
    ```
-3. Ejecuta el script principal:
+3. Abre el archivo del juego en Jupyter Notebook o Google Colab:
+   ```
+- Para Jupyter Notebook, usa:
+  jupyter notebook Codigo_Final_Grupo5.ipynb
    ```bash
-   python main.py
+     jupyter notebook Codigo_Final_Grupo5.ipynb
    ```
+- Para Google Colab, sube el archivo Codigo_Final_Grupo5.ipynb a tu cuenta de Google Drive y ábrelo desde Colab.
+   
 
 ## 📄 Licencia
 Este proyecto es de código abierto bajo la licencia **MIT**.
 
 ✉️ Para dudas o mejoras, estamos atentos
+
