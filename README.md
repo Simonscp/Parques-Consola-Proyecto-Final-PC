@@ -32,22 +32,23 @@ No es necesario instalar estas librerías por separado, ya que vienen incluidas 
    ```bash
      jupyter notebook codigo_fuente_grupo6.ipynb
    ```
-- Para Google Colab
-  Primera opcion
-  Sube el archivo codigo_fuente_grupo6.ipynb a tu cuenta de Google Drive.
-  Abre Google Colab y ve a Archivo > Abrir notebook.
-  En la pestaña Google Drive, selecciona el archivo y ejecuta la celda principal.
+- **Para Google Colab**
 
-  Segunda opcion
-  Una vez en el directorio accede a codigo_fuente_grupo6.ipynb
-  En la parte superior ve a "abrir colab"
-  Abre colab y ejecuta la celda principal
+  **Primera opción**  
+  1. Sube el archivo `codigo_fuente_grupo6.ipynb` a tu cuenta de Google Drive.  
+  2. Abre Google Colab y ve a **Archivo > Abrir notebook**.  
+  3. En la pestaña **Google Drive**, selecciona el archivo y ejecuta la celda principal.  
+
+  **Segunda opción**  
+  1. Una vez en el directorio, accede a `codigo_fuente_grupo6.ipynb`.  
+  2. En la parte superior, ve a **"Abrir en Colab"**.  
+  3. Abre Colab y ejecuta la celda principal.  
   
 
-   
 
 ## 📄 Licencia
 Este proyecto es de código abierto bajo la licencia **MIT**.
 
 ✉️ Para dudas o mejoras, estamos atentos
+segomezro@unal.edu.co; sisotelo@unal.edu.co; cmoralesar@unal.edu.co
 
