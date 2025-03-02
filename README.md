@@ -20,11 +20,11 @@ No es necesario instalar estas librerías por separado, ya que vienen incluidas 
 ## 📌 Cómo ejecutar
 1. Clona este repositorio con:
    ```bash
-   git clone https://github.com/Simonscp/Parques-Consola-Proyecto-Final-PC.git
+   git clone https://github.com/Simonscp/Parques-Consola-Proyecto-Final-PC-G6.git
    ```
 2. Entra al directorio del proyecto:
    ```bash
-   cd Parques-Consola-Proyecto-Final-PC
+   cd Parques-Consola-Proyecto-Final-PC-G6
    ```
 3. Abre el archivo del juego en Jupyter Notebook o Google Colab:
 - Para Jupyter Notebook, usa:
